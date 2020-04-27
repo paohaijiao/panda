@@ -35,7 +35,7 @@ import org.w3c.dom.Node;
  * @create: 2020-04-25 07:01
  **/
 @Step(
-        id = "SolrInPlugin", image = "solr.png", name = "Solr Output",
+        id = "SolrInPlugin", image = "org/steps/solr/resources/solr.png", name = "Solr Output",
         description="Output records into Solr Plugin",
         categoryDescription="Output"
 )
