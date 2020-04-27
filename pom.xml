@@ -242,6 +242,7 @@
 
   </dependencies>
   <build>
+    <finalName>panda</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
